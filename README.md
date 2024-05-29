@@ -15,6 +15,8 @@ Once at the deploayed application, you can install the application through the d
 ## General Info
 This application was made using Progressive Web Applications, Express.js, Node.js and a few Webpacks. It allows the user to download a text editor that they can use to type up code or formatted text.
 
+Starter code was provided by the University of Utah Coding Bootcamp, which can be found [here](https://github.com/coding-boot-camp/cautious-meme/tree/main/Develop).
+
 ## License
 This project is unlicensed
 
